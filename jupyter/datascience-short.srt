@@ -1,0 +1,64 @@
+1
+00:00:01,810 --> 00:00:05,190
+Data science is a bit of a buzzword and a hot topic in tech
+
+2
+00:00:05,240 --> 00:00:08,898
+these days. As a practicing data scientist, I figured I'd explain
+
+3
+00:00:08,984 --> 00:00:12,438
+what the field is. In this short, to spice things up,
+
+4
+00:00:12,524 --> 00:00:16,242
+I will be explaining what the field is after after I eat one of
+
+5
+00:00:16,256 --> 00:00:17,850
+these. Habaneros,
+
+6
+00:00:21,270 --> 00:00:22,500
+I forgot this.
+
+7
+00:00:24,690 --> 00:00:28,094
+Okay, the most basic level data science
+
+8
+00:00:28,202 --> 00:00:32,290
+is problem solving. It's a multidisciplinary
+
+9
+00:00:32,610 --> 00:00:35,926
+approach to problem solving. So we borrow from the field of computer
+
+10
+00:00:35,988 --> 00:00:39,226
+science, from statistics and from business.
+
+11
+00:00:39,348 --> 00:00:43,378
+A typical problem would be to predict if
+
+12
+00:00:43,404 --> 00:00:46,694
+someone will buy your products after visiting
+
+13
+00:00:46,742 --> 00:00:49,990
+your website site. If you want to learn more about data science, machine learning,
+
+14
+00:00:50,040 --> 00:00:52,930
+artificial intelligence, check out my YouTube channel,
+
+15
+00:00:53,100 --> 00:00:56,254
+part of some fun project videos. I also have a lot of live
+
+16
+00:00:56,292 --> 00:00:58,790
+content about how to break into the field. I massively regret.
+
