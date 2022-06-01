@@ -1,0 +1,68 @@
+1
+00:00:00,190 --> 00:00:03,654
+You don't need to do a completely novel analysis or use brand new data to
+
+2
+00:00:03,692 --> 00:00:06,750
+differentiate your data. Science projects. Sometimes a great
+
+3
+00:00:06,800 --> 00:00:10,158
+story will do as much, if not more than these things to get
+
+4
+00:00:10,184 --> 00:00:13,834
+you noticed. Rather than just jumping straight into an analysis,
+
+5
+00:00:13,942 --> 00:00:17,638
+think about who the analysis analysis is for. Working with the Titanic
+
+6
+00:00:17,674 --> 00:00:21,162
+data set has completely different meaning. You're analyzing it
+
+7
+00:00:21,176 --> 00:00:24,318
+to understand the risk. For an insurance company looking to
+
+8
+00:00:24,344 --> 00:00:28,074
+cover another large ship. An analysis of the Irish dataset comes to life
+
+9
+00:00:28,112 --> 00:00:31,938
+if your customer is the largest flower shop in New York City who's trying
+
+10
+00:00:31,964 --> 00:00:35,338
+to reduce their costs by identifying pickable flowers with machine
+
+11
+00:00:35,374 --> 00:00:38,250
+learning. These are some of the most boring and common projects you can do,
+
+12
+00:00:38,300 --> 00:00:41,418
+but they've become exciting by envisioning the customer and the
+
+13
+00:00:41,444 --> 00:00:44,826
+story associated with them. If you want to stand out, add these elements to
+
+14
+00:00:44,828 --> 00:00:48,438
+your projects and talk about them in story form on your resume and
+
+15
+00:00:48,464 --> 00:00:51,558
+in your interviews. This is a short video, so do me a favor and watch
+
+16
+00:00:51,584 --> 00:00:55,242
+it again. While you're watching, think about who the target of your most recent project
+
+17
+00:00:55,316 --> 00:00:58,740
+is and how you could tell a great story around that project.
+
